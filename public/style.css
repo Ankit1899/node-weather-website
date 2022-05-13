@@ -1,0 +1,49 @@
+body {
+    justify-content: center;
+    display: grid;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    color: #111;
+}
+
+div {
+    margin: 10% 0%;
+}
+
+a {
+    margin: 3%;
+    text-decoration: none;
+    font-size: 18px;
+    color: #888888;
+}
+
+form {
+    padding: 6%;
+    background: #eee;
+}
+
+input {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 2%;
+}
+
+button {
+    background: #1dc31d;
+    color: #fff;
+    border: 1px solid #1dc31d;
+    padding: 2%;
+    margin-left: 2%;
+    border-radius: 8px;
+}
+
+footer {
+    color: #afafaf;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+    font-size: 22px;
+}
